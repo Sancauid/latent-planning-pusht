@@ -1,0 +1,9 @@
+torch
+torchvision
+lerobot
+diffusers
+timm
+accelerate
+wandb
+hydra-core
+termcolor
