@@ -25,7 +25,7 @@ The model was trained on an NVIDIA A100 cluster.
 ### 1. Precompute Embeddings
 Extracts DINOv2 features and proprioception states to Zarr for high-speed training.
 ```bash
-python 2_precompute_sota.py
+python 2_preprocess.py
 ```
 
 ### 2. Train World Model
